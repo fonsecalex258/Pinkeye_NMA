@@ -1,0 +1,9 @@
+Comparison,d_dir,sd_dir,d_MTC,sd_MTC,d_rest,sd_rest,w,sd_w,z_score,p_value
+bovoculi_C_licenced vs Placebo,0.25,0.47,0.22,0.28,0.2,0.35,0.05,0.59,0.09,0.93
+bovis_licenced vs Placebo,0.14,0.73,0.16,0.31,0.16,0.35,-0.01,0.81,-0.02,0.99
+bovoculi_autogenous vs Placebo,-0.05,0.59,-0.07,0.3,-0.07,0.34,0.02,0.68,0.02,0.98
+bovis_autogenous vs Placebo,-0.05,0.17,-0.05,0.15,-0.03,0.29,-0.02,0.33,-0.07,0.95
+both vs Placebo,0.56,1.24,0.51,0.39,0.51,0.41,0.05,1.3,0.04,0.97
+bovis_licenced vs bovoculi_C_licenced,0.42,1.29,-0.06,0.3,-0.09,0.31,0.5,1.33,0.38,0.7
+both vs bovoculi_C_licenced,0.54,1.24,0.3,0.35,0.27,0.36,0.27,1.29,0.21,0.84
+both vs bovis_licenced,0.13,1.23,0.36,0.36,0.38,0.37,-0.24,1.29,-0.19,0.85

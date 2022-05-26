@@ -1,0 +1,7 @@
+Name,Rank_1_prob,Rank_least_prob
+Placebo,0.085,0.007
+bovoculi_C_licenced,0.077,0.17
+bovis_licenced,0.136,0.12
+bovoculi_autogenous,0.406,0.051
+bovis_autogenous,0.267,0.014
+both,0.029,0.639
